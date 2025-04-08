@@ -1,7 +1,7 @@
 # fastfetch-config
 fastfetch config
 
-type fastfetch --gen-config in termianl to create a default fastfetch config file.
+Type fastfetch --gen-config in termianl to create a default fastfetch config file.
 
 It will be at ~/.config/fastfetch
 
