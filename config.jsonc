@@ -6,7 +6,7 @@
     "width": 10,           // Width in characters (for image logos)
     "height": 2,          // Height in characters (for image logos)
     "padding": {
-        "top": 0,          // Top padding
+        "top": 1,          // Top padding
         "left": 0,         // Left padding
         "right": 2         // Right padding
     },
@@ -41,11 +41,11 @@
             "key": "│ ├󰍛",
             "keyColor": "blue"
         },
-       /* {
+       {
             "type": "disk",
             "key": "└ └",
             "keyColor": "blue"
-        },*/
+        },
         {
             "type": "custom",
             "format": "\u001b[90m└────────────────────────────────────────────────────┘"
@@ -65,16 +65,11 @@
             "key": "│ ├",
             "keyColor": "yellow"
         },
-       /* {
-            "type": "bios",
-            "key": "│ ├",
-            "keyColor": "yellow"
-        },*/
-        /*{
+       {
             "type": "packages",
             "key": "│ ├󰏖",
             "keyColor": "yellow"
-        },*/
+        },
         {
             "type": "shell",
             "key": "└ └",
