@@ -1,5 +1,4 @@
 # fastfetch-config
-fastfetch config
 
 Type ```fastfetch --gen-config``` in termianl to create a default fastfetch config file.
 
