@@ -11,8 +11,8 @@
         "right": 2         // Right padding
     },
     "color": {             // Override logo colors
-        "1": "blue",
-        "2": "blue"
+        "1": "",
+        "2": ""
     }
 },
   "modules": [
